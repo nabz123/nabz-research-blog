@@ -4,7 +4,7 @@ title: New Research - 4 March
 date: 2021-03-03T22:30:36.020Z
 description: This is my work on the About Page
 featuredpost: true
-featuredimage: https://cdn.shopify.com/s/files/1/1825/0729/files/Screen_Shot_2018-05-14_at_10.13.58.png?v=1526267827
+featuredimage: /img/screen_shot_2018-05-14_at_10.13.58.png
 tags:
   - cms
 ---
