@@ -4,7 +4,7 @@ title: New Research - 4 March
 date: 2021-03-03T22:30:36.020Z
 description: This is my work on the About Page
 featuredpost: true
-featuredimage: /img/screen_shot_2018-05-14_at_10.13.58.png
+featuredimage: https://yt3.ggpht.com/ytc/AAUvwnjLNdkBK-GXpJJQ8K9Nku_gHwS5fWUKkq0BEoPgTA=s900-c-k-c0x00ffffff-no-rj
 tags:
   - cms
 ---
@@ -16,11 +16,15 @@ As an athlete/s you do not settle for average. And neither do we. This is where 
 
 Whether our equipment hire service is for a day, a week, or a month, (name) connects athletes to world-class equipment, serving local communities, schools and organizations. Our truly enthusiastic staff will provide you with everything you need, from sourcing mini goals all the way to clubs kits. 
 
-What are you waiting for?
-
 \[Button - Browse now] 
 
+![](https://www.kindpng.com/picc/m/628-6283971_download-now-button-png-browse-button-vector-transparent.png)
+
 Links (Twitter - Inta)
+
+![](https://media.nngroup.com/media/editor/2019/01/16/clarity.png)
+
+
 
 (name) is a 100% New Zealand owned and operated company
 
