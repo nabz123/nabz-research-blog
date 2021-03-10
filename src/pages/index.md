@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Nabeel's research blog
-image: /img/home-jumbotron.jpg
+image: /img/baw.png
 heading: What we offer
 subheading: ADT1 Web Design
 mainpitch:
