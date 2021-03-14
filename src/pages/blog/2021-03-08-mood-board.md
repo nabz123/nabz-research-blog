@@ -5,7 +5,7 @@ date: 2021-03-08T20:43:09.455Z
 description: Sample mood board for my project idea, my theme colour is more of a
   black and white vibe.
 featuredpost: true
-featuredimage: /img/moodboard01.png
+featuredimage: /img/moodboard02.jpg
 tags:
   - moodboard
 ---
