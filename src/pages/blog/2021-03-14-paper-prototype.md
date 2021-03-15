@@ -10,4 +10,4 @@ tags:
 ---
 As shown below the user attempts to purchase an item. and also checks the reviews of a product before adding the product to their cart.
 
-https://vimeo.com/523972350
+<https://vimeo.com/523972350>
