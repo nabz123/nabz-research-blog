@@ -3,7 +3,7 @@ templateKey: index-page
 title: Nabeel's research blog
 image: /img/baw.png
 heading: What we offer
-subheading: ADT1 Web Design
+subheading: This is my research blog - ADT1 Web Design
 mainpitch:
   title: Why Kaldi
   description: >
