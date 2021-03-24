@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Using bootstrap starter
 date: 2021-03-24T12:36:27.021Z
 description: Playing around with Sass and bootstrap starter.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/pin-transparent-images-png.png
 tags:
   - bootstrap
