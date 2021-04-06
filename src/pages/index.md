@@ -2,27 +2,17 @@
 templateKey: index-page
 title: Nabeel's research blog
 image: /img/baw.png
-heading: What we offer
+heading: What to expect to view here?
 subheading: This is my research blog for ADT1 -  Web Design
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: ADT1 -  Web Design Blog
+  description: "I really enjoyed about aspects and techniques that come along with
+    designing a webpage "
+description: All my research ideas and findings can be found in my blog posts
 intro:
   blurbs: []
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: My Blog
+  description: "\n"
 main:
   heading: Great coffee with no compromises
   description: >
